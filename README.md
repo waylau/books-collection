@@ -7,6 +7,6 @@ To the programmer's open source and free books collection
 
 本文将不断更新收集，如果你感兴趣，可以持续关注
 
-点 Watch 或者 Star ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
+点 [Watch](https://github.com/waylau/books-collection/subscription) 或者 [Star](https://github.com/waylau/books-collection/star) ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
