@@ -14,3 +14,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 本项目将不断更新收集，如果你感兴趣，可以持续关注, 点 **Watch** 或者 **Star** ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
+
+* [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
+* [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+* [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+* [Github 帮助文档](https://github.com/waylau/github-help)
