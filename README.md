@@ -15,7 +15,22 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
 
+##Security 安全
+
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
+
+##Java
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
+
+##项目管理
+
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+
+##版本管理
+
 * [Github 帮助文档](https://github.com/waylau/github-help)
+
+##Web
+
+*[Svg 资源集合](https://github.com/willianjusten/awesome-svg)
+
