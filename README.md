@@ -29,6 +29,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##版本管理
 
 * [Github 帮助文档](https://github.com/waylau/github-help)
+* [Pro Git, Second Edition](https://github.com/progit/progit2)
 
 ##Web
 
