@@ -22,6 +22,10 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##Java
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 
+##Javascript
+
+* [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
+
 ##项目管理
 
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
