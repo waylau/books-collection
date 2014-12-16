@@ -36,6 +36,13 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Pro Git, 2nd Edition](https://github.com/progit/progit2) , [英](http://git-scm.com/book/en/v2), [中](http://git-scm.com/book/zh/v2)
 * [Pro Git, 1st Edition](https://github.com/progit/progit)  , [英](http://git-scm.com/book/en/v1),  [中](http://git-scm.com/book/zh/v1)
 
+##工作流
+
+* [Activiti 5.x 用户指南](github.com/waylau/activiti-5.x-user-guide)
+
+##Linux
+
+* [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 ##Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
