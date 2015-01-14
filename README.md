@@ -26,6 +26,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##Javascript
 
 * [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
+* Less.js [英](http://lesscss.org/ ), [中](http://lesscss.net/)
 
 ##项目管理
 
@@ -48,4 +49,9 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
+
+##Swift
+
+* The Swift Programming Language [英](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html), [中](http://siemenliu.gitbooks.io/the-swift-programming-language-in-chinese/)
+* [Swift User Guide](http://swift-lang.org/guides/release-0.94/userguide/userguide.html)
 
