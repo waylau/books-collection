@@ -15,6 +15,14 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
 
+##翻墙
+
+* [简单实现浏览国外著名网站的方法，不用梯子，修改本机的 hosts](http://www.waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
+* [用Heroku、snova-c4搭梯子上墙](http://www.waylau.com/heroku-snova-c4-cross-wall/)
+* [又一架梯子上墙利器--DNSCrypt](http://www.waylau.com/about-dnscrypt/)
+* [用 VPN Gate 翻墙科学上网](http://www.waylau.com/about-vpngate/)
+* [设置 VPN,通过 VPN 翻墙科学上网](http://www.waylau.com/vpn-setting/)
+
 ##Security 安全
 
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
