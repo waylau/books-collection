@@ -22,6 +22,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [又一架梯子上墙利器--DNSCrypt](http://www.waylau.com/about-dnscrypt/)
 * [用 VPN Gate 翻墙科学上网](http://www.waylau.com/about-vpngate/)
 * [设置 VPN,通过 VPN 翻墙科学上网](http://www.waylau.com/vpn-setting/)
+* [用 Azure RemoteApp 翻墙科学上网](http://www.waylau.com/about-azure-remoteapp/)
 
 ##Security 安全
 
