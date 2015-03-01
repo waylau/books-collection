@@ -29,6 +29,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 
 ##Java
+
+* [REST 实战](https://github.com/waylau/rest-in-action)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
