@@ -69,3 +69,6 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * The Swift Programming Language [英](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html), [中](http://siemenliu.gitbooks.io/the-swift-programming-language-in-chinese/)
 * [Swift User Guide](http://swift-lang.org/guides/release-0.94/userguide/userguide.html)
 
+##架构
+
+* [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
