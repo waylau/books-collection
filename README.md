@@ -77,4 +77,4 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ##架构
 
-* [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* Architectural Styles and the Design of Network-based Software Architectures(架构风格与基于网络应用软件的架构设计) [英](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm), [中](http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269.html?f=read)
