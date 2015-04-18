@@ -15,6 +15,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
 
+**说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件,
+
 ##翻墙
 
 * [简单实现浏览国外著名网站的方法，不用梯子，修改本机的 hosts](http://www.waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
@@ -41,11 +43,11 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##Javascript
 
 * [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
-* Less.js [英](http://lesscss.org/ ), [中](http://lesscss.net/)
+* Less.js [:us:](http://lesscss.org/ ), [:cn:](http://lesscss.net/)
 
 ##CSS
 
-* Bootstrap 文档  [英](http://getbootstrap.com/),[中](http://v3.bootcss.com/)
+* Bootstrap 文档  [:us:](http://getbootstrap.com/),[:cn:](http://v3.bootcss.com/)
 * [CSS 参考手册](http://css.doyoe.com/)
 
 ##项目管理
@@ -55,8 +57,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##版本管理
 
 * [Github 帮助文档](https://github.com/waylau/github-help)
-* [Pro Git, 2nd Edition](https://github.com/progit/progit2) , [英](http://git-scm.com/book/en/v2), [中](http://git-scm.com/book/zh/v2)
-* [Pro Git, 1st Edition](https://github.com/progit/progit)  , [英](http://git-scm.com/book/en/v1),  [中](http://git-scm.com/book/zh/v1)
+* [Pro Git, 2nd Edition](https://github.com/progit/progit2) , [:us:](http://git-scm.com/book/en/v2), [:cn:](http://git-scm.com/book/zh/v2)
+* [Pro Git, 1st Edition](https://github.com/progit/progit)  , [:us:](http://git-scm.com/book/en/v1),  [:cn:](http://git-scm.com/book/zh/v1)
 
 ##工作流
 
@@ -72,7 +74,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ##Swift
 
-* The Swift Programming Language [英](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html), [中](http://siemenliu.gitbooks.io/the-swift-programming-language-in-chinese/)
+* The Swift Programming Language [:us:](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html), [:cn:](http://siemenliu.gitbooks.io/the-swift-programming-language-in-chinese/)
 * [Swift User Guide](http://swift-lang.org/guides/release-0.94/userguide/userguide.html)
 
 ##架构
