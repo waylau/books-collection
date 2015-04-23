@@ -1,7 +1,7 @@
 books-collection 图书集合
 ================
 
-To the programmer's open source and free books collection.  
+To programmer's open source and free books collection.  
 
 In this project, we will constantly update collection, 
 if you are interested, you can continue to focus on, click 
