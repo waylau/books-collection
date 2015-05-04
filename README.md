@@ -73,6 +73,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
+* [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
 
 ##Swift
 
