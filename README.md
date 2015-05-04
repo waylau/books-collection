@@ -40,6 +40,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
 * [Concurrent Programming in Java-Design principles and patterns](http://gee.cs.oswego.edu/dl/cpj/index.html)
+* [Java 并发编程培训(阿里巴巴)](http://www.slideshare.net/longhao/java-11808629)
 
 ##Javascript
 
