@@ -57,6 +57,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * Bootstrap 文档  [:us:](http://getbootstrap.com/),[:cn:](http://v3.bootcss.com/)
 * [CSS 参考手册](http://css.doyoe.com/)
+* [Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide/)
 
 ##项目管理
 
