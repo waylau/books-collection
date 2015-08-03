@@ -63,6 +63,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ##项目管理
 
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
+* [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
+* [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 
 ##版本管理
 
