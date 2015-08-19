@@ -30,6 +30,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/index.html)
 * [MySQL 5.6 Reference Manual](http://dev.mysql.com/doc/refman/5.6/en/index.html)
+* [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 
 ##Security 安全
 
