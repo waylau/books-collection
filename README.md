@@ -11,6 +11,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 给程序员的开源、免费书籍收集，图书集合。
 
+本项目中所列出的图书均由人工校验过，放心可用。
+
 本项目将不断更新收集，如果你感兴趣，可以持续关注, 点 **Watch** 或者 **Star** ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
@@ -85,6 +87,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
 * [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
+* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
+* http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 
 ##Swift
 
