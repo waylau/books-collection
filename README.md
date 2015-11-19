@@ -19,7 +19,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 **说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件,
 
-##翻墙
+## 翻墙
 
 * [简单实现浏览国外著名网站的方法，不用梯子，修改本机的 hosts](http://www.waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
 * [用Heroku、snova-c4搭梯子上墙](http://www.waylau.com/heroku-snova-c4-cross-wall/)
@@ -28,17 +28,17 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [设置 VPN,通过 VPN 翻墙科学上网](http://www.waylau.com/vpn-setting/)
 * [用 Azure RemoteApp 翻墙科学上网](http://www.waylau.com/about-azure-remoteapp/)
 
-##数据库
+## 数据库
 
 * [MySQL 5.7 Reference Manual](http://dev.mysql.com/doc/refman/5.7/en/index.html)
 * [MySQL 5.6 Reference Manual](http://dev.mysql.com/doc/refman/5.6/en/index.html)
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 
-##Security 安全
+## Security 安全
 
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
 
-##Java
+## Java
 
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
@@ -52,36 +52,37 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Java Servlet 3.1 规范 [:cn:](https://github.com/waylau/servlet-3.1-specification)[:arrow_down:](http://download.oracle.com/otndocs/jcp/servlet-3_1-fr-eval-spec/index.html)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 
-##Javascript
+## Javascript
 
 * [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
 * Less.js [:us:](http://lesscss.org/ ), [:cn:](http://lesscss.net/)
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
+* [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
 
-##CSS
+## CSS
 
 * Bootstrap 文档  [:us:](http://getbootstrap.com/),[:cn:](http://v3.bootcss.com/)
 * [CSS 参考手册](http://css.doyoe.com/)
 * [Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide/)
 * [CSS3 教程](https://github.com/waylau/css3-tutorial)
 
-##项目管理
+## 项目管理
 
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
 * [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 
-##版本管理
+## 版本管理
 
 * [Github 帮助文档](https://github.com/waylau/github-help)
 * [Pro Git, 2nd Edition](https://github.com/progit/progit2) , [:us:](http://git-scm.com/book/en/v2), [:cn:](http://git-scm.com/book/zh/v2)
 * [Pro Git, 1st Edition](https://github.com/progit/progit)  , [:us:](http://git-scm.com/book/en/v1),  [:cn:](http://git-scm.com/book/zh/v1)
 
-##工作流
+## 工作流
 
 * [Activiti 5.x 用户指南](github.com/waylau/activiti-5.x-user-guide)
 
-##Linux
+## Linux
 
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 
@@ -92,11 +93,11 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 
-##Swift
+## Swift
 
 * The Swift Programming Language [:us:](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html), [:cn:](http://siemenliu.gitbooks.io/the-swift-programming-language-in-chinese/)
 * [Swift User Guide](http://swift-lang.org/guides/release-0.94/userguide/userguide.html)
 
-##架构
+## 架构
 
 * Architectural Styles and the Design of Network-based Software Architectures(架构风格与基于网络应用软件的架构设计) [:us:](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) [:cn:](http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269.html?f=read)[:arrow_down:](http://www.infoq.com/cn/minibooks/web-based-apps-archit-design)
