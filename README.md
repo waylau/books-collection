@@ -1,4 +1,4 @@
-books-collection 图书集合
+books-collection 给程序员的开源、免费图书集合
 ================
 
 To programmer's open source and free books collection.  
