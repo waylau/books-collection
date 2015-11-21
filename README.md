@@ -27,6 +27,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [用 VPN Gate 翻墙科学上网](http://www.waylau.com/about-vpngate/)
 * [设置 VPN,通过 VPN 翻墙科学上网](http://www.waylau.com/vpn-setting/)
 * [用 Azure RemoteApp 翻墙科学上网](http://www.waylau.com/about-azure-remoteapp/)
+* [Windows 下自动化更新 hosts](http://www.waylau.com/windows-hosts-auto-update/)
 
 ## 数据库
 
