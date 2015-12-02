@@ -52,6 +52,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Java 并发编程培训(阿里巴巴)](http://www.slideshare.net/longhao/java-11808629)
 * Java Servlet 3.1 规范 [:cn:](https://github.com/waylau/servlet-3.1-specification)[:arrow_down:](http://download.oracle.com/otndocs/jcp/servlet-3_1-fr-eval-spec/index.html)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
+* [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 
 ## Javascript
 
