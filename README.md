@@ -89,6 +89,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## Linux
 
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
+* [Linux入门指引](https://upclinux.github.io/intro/)
 
 ##Web
 
