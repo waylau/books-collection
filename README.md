@@ -110,3 +110,11 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## 架构
 
 * Architectural Styles and the Design of Network-based Software Architectures(架构风格与基于网络应用软件的架构设计) [:us:](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) [:cn:](http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269.html?f=read)[:arrow_down:](http://www.infoq.com/cn/minibooks/web-based-apps-archit-design)
+
+## 云计算
+
+* [Docker —— 从入门到实践](https://github.com/yeasy/docker_practice)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [Docker 入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
+* [Docker 中文指南](https://github.com/widuu/chinese_docker)》
+
