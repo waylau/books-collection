@@ -91,12 +91,13 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux入门指引](https://upclinux.github.io/intro/)
 
-##Web
+## Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
 * [Scalable Vector Graphics (SVG) 2](http://www.w3.org/TR/2015/WD-SVG2-20150409/)
 * [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
 * http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
+* [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
 ## Mobile Development
 
