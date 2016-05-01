@@ -76,6 +76,9 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide/)
 * [CSS3 教程](https://github.com/waylau/css3-tutorial)
 
+## 软件工程
+
+* Scrum and XP from the Trenches - 2nd Edition [:us:](http://www.infoq.com/resource/minibooks/scrum-xp-from-the-trenches-2/en/pdf/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf)
 ## 项目管理
 
 * [Gradle 2 用户指南](https://github.com/waylau/Gradle-2-User-Guide)
