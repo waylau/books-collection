@@ -69,6 +69,11 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
 * [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
 
+## NodeJS
+
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
 ## CSS
 
 * Bootstrap 文档  [:us:](http://getbootstrap.com/),[:cn:](http://v3.bootcss.com/)
