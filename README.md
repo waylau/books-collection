@@ -64,6 +64,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## Javascript
 
+* [ECMAScript® 2016 Language Specification](https://tc39.github.io/ecma262/2016/)
 * [Learn Javascript](http://gitbookio.gitbooks.io/javascript/)
 * Less.js [:us:](http://lesscss.org/ ), [:cn:](http://lesscss.net/)
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
