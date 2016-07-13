@@ -85,7 +85,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## 软件工程
 
 * Scrum and XP from the Trenches - 2nd Edition [:us:](http://www.infoq.com/resource/minibooks/scrum-xp-from-the-trenches-2/en/pdf/Scrum-and-XP-from-the-Trenches-2nd-edition.pdf) , [:cn:](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
-* The Scrum Guide [:us:](http://www.scrumguides.org/scrum-guide.html)
+* The Scrum Guide [:us:](http://www.scrumguides.org/scrum-guide.html) , [:cn:](http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-CN.pdf#zoom=100)
 
 ## 项目管理
 
