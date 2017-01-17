@@ -108,7 +108,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux入门指引](https://upclinux.github.io/intro/)
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
-
+* [Linux Tutorial][:us:](http://ryanstutorials.net/linuxtutorial/)
 ## Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
