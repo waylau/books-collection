@@ -56,7 +56,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [Java 编程要点](https://github.com/waylau/essential-java) 
-* [Java 虚拟机规范](https://github.com/waylau/java-virtual-machine-specification) 
+* [Java 虚拟机规范](https://github.com/waylau/java-virtual-machine-specification)
+* [深入理解Java虚拟机：JVM高级特性与最佳实践](https://github.com/Porraio/Java_Books/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
 
 ## Golang
 
@@ -108,6 +109,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [鸟哥的Linux私房菜](http://vbird.dic.ksu.edu.tw/)
 * [Linux入门指引](https://upclinux.github.io/intro/)
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
+* [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)[:us:]
 
 ## Web
 
