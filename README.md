@@ -58,6 +58,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Java 编程要点](https://github.com/waylau/essential-java) 
 * [Java 虚拟机规范](https://github.com/waylau/java-virtual-machine-specification)
 * [Spring Boot 教程](https://github.com/waylau/spring-boot-tutorial)
+* [分布式 Java](https://github.com/waylau/distributed-java)
 
 ## Golang
 
