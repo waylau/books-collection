@@ -57,6 +57,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [Java 编程要点](https://github.com/waylau/essential-java) 
 * [Java 虚拟机规范](https://github.com/waylau/java-virtual-machine-specification)
+* [Spring Boot 教程](https://github.com/waylau/spring-boot-tutorial)
 
 ## Golang
 
