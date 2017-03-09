@@ -72,6 +72,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Less.js [:us:](http://lesscss.org/ ), [:cn:](http://lesscss.net/)
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
 * [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ## NodeJS
 
@@ -84,6 +85,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [CSS 参考手册](http://css.doyoe.com/)
 * [Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide/)
 * [CSS3 教程](https://github.com/waylau/css3-tutorial)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 ## 软件工程
 
