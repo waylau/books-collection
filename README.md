@@ -150,3 +150,4 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## 大数据
 
 * Elasticsearch 权威指南 [:us:](https://github.com/elasticsearch/elasticsearch-definitive-guide), [:cn:](https://github.com/looly/elasticsearch-definitive-guide-cn)
+* Spring Data Elasticsearch [:us:](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html), [:cn:](https://es.yemengying.com/)
