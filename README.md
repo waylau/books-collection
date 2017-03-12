@@ -147,3 +147,6 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Docker 入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker 中文指南](https://github.com/widuu/chinese_docker)
 
+## 大数据
+
+* Elasticsearch 权威指南 [:us:](https://github.com/elasticsearch/elasticsearch-definitive-guide), [:cn:](https://github.com/looly/elasticsearch-definitive-guide-cn)
