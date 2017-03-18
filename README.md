@@ -40,7 +40,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## Security 安全
 
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
-* [Spring Security 教程](http://www.gitbook.com/book/waylau/spring-security-tutorial)
+* [Spring Security 教程](https://github.com/waylau/spring-security-tutorial)
 
 ## Java
 
