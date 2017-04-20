@@ -61,6 +61,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Spring Boot 教程](https://github.com/waylau/spring-boot-tutorial)
 * [分布式 Java](https://github.com/waylau/distributed-java)
 * [Google Java编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+* [Thymeleaf 教程](https://github.com/waylau/thymeleaf-tutorial)
 
 ## Golang
 
