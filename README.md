@@ -141,6 +141,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## 架构
 
 * Architectural Styles and the Design of Network-based Software Architectures(架构风格与基于网络应用软件的架构设计) [:us:](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) [:cn:](http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269.html?f=read)[:arrow_down:](http://www.infoq.com/cn/minibooks/web-based-apps-archit-design)
+* [Design patterns implemented in Java](http://java-design-patterns.com/)
 
 ## 云计算
 
