@@ -11,7 +11,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 给程序员的开源、免费书籍收集，图书集合。
 
-本项目中所列出的图书均由人工校验过，放心可用。
+本项目中所列出的图书均由人工校验过，放心使用用。
 
 本项目将不断更新收集，如果你感兴趣，可以持续关注, 点 **Watch** 或者 **Star** ,查看[Github中watch、star的用法](http://www.waylau.com/github-use-watch-star-fork/)。
 
@@ -128,6 +128,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * http2 explained [:us:](http://daniel.haxx.se/http2/), [:cn:](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
+* [NGINX 教程](https://github.com/waylau/nginx-tutorial)
 
 ## Mobile Development
 
