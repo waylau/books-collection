@@ -130,6 +130,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
 * [TCP/IP详解 卷1：协议](http://www.52im.net/topic-tcpipvol1.html)
 * [NGINX 教程](https://github.com/waylau/nginx-tutorial)
+* JSON-RPC 2.0 规范 [:us:](http://www.jsonrpc.org/specification), [:cn:](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
 
 ## Mobile Development
 
