@@ -21,7 +21,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## 翻墙
 
-* [简单实现浏览国外著名网站的方法，不用梯子，修改本机的 hosts](https:/waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
+* [简单实现浏览国外著名网站的方法,不用梯子,修改本机的hosts](https://waylau.com/simple-way-to-implement-browsing-famous-overseas-web-sites-without-the-ladder-gateway-dns-hosts/)
 * [用Heroku、snova-c4搭梯子上墙](https://waylau.com/heroku-snova-c4-cross-wall/)
 * [又一架梯子上墙利器--DNSCrypt](https://waylau.com/about-dnscrypt/)
 * [用 VPN Gate 翻墙科学上网](https://waylau.com/about-vpngate/)
