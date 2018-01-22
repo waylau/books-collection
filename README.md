@@ -112,7 +112,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## 工作流
 
-* [Activiti 5.x 用户指南](github.com/waylau/activiti-5.x-user-guide)
+* [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 
 ## Linux
 
