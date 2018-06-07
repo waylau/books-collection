@@ -17,7 +17,9 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 同时，欢迎你提出宝贵的意见，或者投稿。使用 [issues](https://github.com/waylau/books-collection/issues) 
 
-**说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件,
+**说明：**标志:us:为英文,:cn:为中文, :arrow_down:为可以下载的附件。
+
+另，个人闲置二手书交易，可见<https://github.com/waylau/second-hand-books>。
 
 ## 翻墙
 
