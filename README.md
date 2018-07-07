@@ -66,6 +66,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Thymeleaf 教程](https://github.com/waylau/thymeleaf-tutorial)
 * [Spring Cloud 教程](https://github.com/waylau/spring-cloud-tutorial)
 * [Spring 5 案例大全](https://github.com/waylau/spring-5-book)
+* [Think Java, 2nd Edition](https://books.trinket.io/thinkjava2)
+* [Think Data Structures](http://greenteapress.com/thinkdast/html/index.html)
 
 ## Golang
 
