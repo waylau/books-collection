@@ -72,6 +72,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## Golang
 
 * Build Web Application With Golang [:us:](https://github.com/astaxie/build-web-application-with-golang), [:cn:](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
+* [Go语言圣经(中文版)](https://github.com/golang-china/gopl-zh) ([镜像](https://github.com/gopl-zh/gopl-zh.github.com))
+* [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 ## Web
 
