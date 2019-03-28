@@ -70,6 +70,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Think Java, 2nd Edition](https://books.trinket.io/thinkjava2)
 * [Think Data Structures](http://greenteapress.com/thinkdast/html/index.html)
 * [现代Java案例大全](https://github.com/waylau/modern-java-demos)
+* [Effective Java 3rd Edition中文版](https://sjsdfg.github.io/effective-java-3rd-chinese)
 
 ## Golang
 
