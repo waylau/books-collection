@@ -99,10 +99,12 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
-## NodeJS
+## Node.js
 
 * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+* [跟老卫学Ionic](https://github.com/waylau/ionic-framework-tutorial)
+* [Node.js 案例大全](https://github.com/waylau/nodejs-book-samples)
 
 ## CSS
 
