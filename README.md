@@ -78,6 +78,12 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Go语言圣经(中文版)](https://github.com/golang-china/gopl-zh) ([镜像](https://github.com/gopl-zh/gopl-zh.github.com))
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
+
+## Python
+
+* Python on Windows documentation  [:us:](https://docs.microsoft.com/en-us/windows/python/), [:cn:](https://docs.microsoft.com/zh-cn/windows/python/)
+
+
 ## Web
 
 * [Svg 资源集合](https://github.com/willianjusten/awesome-svg)
@@ -105,6 +111,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 * [跟老卫学Ionic](https://github.com/waylau/ionic-framework-tutorial)
 * [Node.js 案例大全](https://github.com/waylau/nodejs-book-samples)
+* Developing with Node.js on Windows [:us:](https://docs.microsoft.com/en-us/windows/nodejs/), [:cn:](https://docs.microsoft.com/zh-cn/windows/nodejs/)
 
 ## CSS
 
