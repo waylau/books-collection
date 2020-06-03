@@ -71,6 +71,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Think Data Structures](http://greenteapress.com/thinkdast/html/index.html)
 * [现代Java案例大全](https://github.com/waylau/modern-java-demos)
 * [Effective Java 3rd Edition中文版](https://sjsdfg.github.io/effective-java-3rd-chinese)
+* [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos/)
+* [Java数据结构及算法实战](https://github.com/waylau/java-data-structures-and-algorithms-in-action)
 
 ## Golang
 
