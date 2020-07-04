@@ -73,6 +73,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Effective Java 3rd Edition中文版](https://sjsdfg.github.io/effective-java-3rd-chinese)
 * [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos/)
 * [Java数据结构及算法实战](https://github.com/waylau/java-data-structures-and-algorithms-in-action)
+* [Java安可认证阶段考试——可信编码实现](https://github.com/waylau/java-trusted-coding-exam)
 
 ## Golang
 
