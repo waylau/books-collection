@@ -74,6 +74,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos/)
 * [Java数据结构及算法实战](https://github.com/waylau/java-data-structures-and-algorithms-in-action)
 * [Java安可认证阶段考试——可信编码实现](https://github.com/waylau/java-trusted-coding-exam)
+* [Java安可认证阶段考试——开发者测试](https://github.com/waylau/java-trusted-testing-exam)
+* [Java安可认证阶段考试——可信代码重构](https://github.com/waylau/java-trusted-code-refactoring-exam)
 
 ## Golang
 
@@ -98,6 +100,8 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [NGINX 教程](https://github.com/waylau/nginx-tutorial)
 * JSON-RPC 2.0 规范 [:us:](http://www.jsonrpc.org/specification), [:cn:](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)
 * [跟老卫学Angular](https://github.com/waylau/angular-tutorial)
+* [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com/)
+* [跟老卫学Vue.js开发](https://github.com/waylau/vuejs-enterprise-application-development)
 
 ## Javascript
 
@@ -107,6 +111,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Jekyll 文档 [:us:](http://jekyllrb.com/docs/home/), [:cn:](http://jekyllcn.com/docs/home/)
 * [NW.js 入门指南](https://github.com/waylau/nwjs-demos) 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese)
 
 ## Node.js
 
@@ -158,6 +163,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 ## Mobile Development
 
 * [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide) 
+* [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
 
 ## Swift
 
