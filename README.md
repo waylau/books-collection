@@ -160,7 +160,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * openSUSE Leap 42.1 非官方指南 [:us:](http://opensuse-guide.org/), [:cn:](https://lug.ustc.edu.cn/sites/opensuse-guide/)
 * [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/)[:us:]
 
-## Mobile Development
+## Mobile Development 移动应用开发
 
 * [Apache Cordova 开发指南](https://github.com/waylau/cordova-dev-guide) 
 * [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
@@ -187,6 +187,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * Elasticsearch 权威指南 [:us:](https://github.com/elasticsearch/elasticsearch-definitive-guide), [:cn:](https://github.com/looly/elasticsearch-definitive-guide-cn)
 * Spring Data Elasticsearch [:us:](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html), [:cn:](https://es.yemengying.com/)
+* [跟老卫学Apache Spark开发](https://github.com/waylau/apache-spark-tutorial)
 
 ## 操作系统
 
