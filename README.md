@@ -39,6 +39,10 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * [DB2 教程](https://github.com/waylau/db2-tutorial)
 * Getting Started with DB2 Express-C(3rd Edition)[:us:](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf), [:cn:](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/DB2_Express-C_9.7_3rd_Edition_Chinese.pdf)
 
+## 缓存
+
+* [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
+
 ## Security 安全
 
 * [Apache Shiro 1.2.x 用户指南](https://github.com/waylau/apache-shiro-1.2.x-reference)
@@ -188,6 +192,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 * Elasticsearch 权威指南 [:us:](https://github.com/elasticsearch/elasticsearch-definitive-guide), [:cn:](https://github.com/looly/elasticsearch-definitive-guide-cn)
 * Spring Data Elasticsearch [:us:](http://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html), [:cn:](https://es.yemengying.com/)
 * [跟老卫学Apache Spark开发](https://github.com/waylau/apache-spark-tutorial)
+
 
 ## 操作系统
 
