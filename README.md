@@ -41,7 +41,7 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 ## 缓存
 
-* [跟老卫学HarmonyOS开发](https://github.com/waylau/harmonyos-tutorial)
+* [跟老卫学Ehcache开发](https://github.com/waylau/ehcache-tutorial)
 
 ## Security 安全
 
