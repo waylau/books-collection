@@ -95,6 +95,10 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * Python on Windows documentation  [:us:](https://docs.microsoft.com/en-us/windows/python/), [:cn:](https://docs.microsoft.com/zh-cn/windows/python/)
 
+## Rust
+
+* Rust 程序设计语言 [:us:](https://doc.rust-lang.org/stable/book/), [:cn:](https://kaisery.github.io/trpl-zh-cn/)
+
 
 ## Web
 
