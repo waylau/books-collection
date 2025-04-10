@@ -211,9 +211,10 @@ I am improving and expanding the documentation all the time. If you'd like to he
 
 * [跟老卫学AI大模型开发](https://github.com/waylau/ai-large-model-tutorial/)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)
-* [动手学深度学习](https://zh-v2.d2l.ai/)
+* Dive into Deep Learning, [:us:](https://d2l.ai/), [:cn:](https://zh-v2.d2l.ai/)
 * [面向开发者的大模型手册](https://datawhalechina.github.io/llm-cookbook/)
 * [开源大模型食用指南](https://github.com/datawhalechina/self-llm)
 * [大模型白盒子构建指南](https://github.com/datawhalechina/tiny-universe)
 * [大模型基础](https://github.com/datawhalechina/so-large-lm)
 * [动手学大模型应用开发](https://github.com/datawhalechina/llm-universe)
+* [提示工程指南](https://www.promptingguide.ai/zh)
